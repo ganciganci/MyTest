@@ -1,4 +1,4 @@
-package tools;
+package com.tools;
 
 import io.restassured.RestAssured;
 import io.restassured.config.SSLConfig;
