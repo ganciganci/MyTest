@@ -1,2 +1,2 @@
 # MyTest
-Rest Assured + TestNG + Allure + JPA + Maven + Jenkins
+Rest Assured + TestNG + Allure + Mybatis + Maven + Jenkins
